@@ -1,0 +1,5 @@
+lightbend.sbt
+target
+.idea
+
+project/target/
